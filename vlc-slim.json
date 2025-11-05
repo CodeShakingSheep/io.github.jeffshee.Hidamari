@@ -80,7 +80,7 @@
                 },
                 {
                 "type": "patch",
-                "path": "cmake-min-version.patch"
+                "path": "libvlc/cmake-min-version.patch"
                 }
             ]
         },
@@ -101,7 +101,7 @@
                 },
                 {
                 "type": "patch",
-                "path": "cmake-min-version.patch"
+                "path": "libvlc/cmake-min-version.patch"
                 }
             ]
         },
@@ -133,7 +133,7 @@
                 {
                     "type": "git",
                     "url": "https://code.videolan.org/videolan/x264.git",
-                    "commit": "a8b68ebfaa68621b5ac8907610d3335971839d52"
+                    "commit": "0480cb05fa188d37ae87e8f4fd8f1aea3711f7ee"
                 }
             ]
         },
@@ -150,8 +150,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://bitbucket.org/multicoreware/x265_git/downloads/x265_3.6.tar.gz",
-                    "sha256": "663531f341c5389f460d730e62e10a4fcca3428ca2ca109693867bc5fe2e2807"
+                    "url": "https://bitbucket.org/multicoreware/x265_git/downloads/x265_4.1.tar.gz",
+                    "sha256": "a31699c6a89806b74b0151e5e6a7df65de4b49050482fe5ebf8a4379d7af8f29"
                 }
             ]
         },
@@ -161,8 +161,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.videolan.org/videolan/dav1d/1.4.2/dav1d-1.4.2.tar.xz",
-                    "sha256": "7392cf4c432734eebb383319b5e05e994bffdcdfe66f82287c38873601a4ef0b"
+                    "url": "https://download.videolan.org/videolan/dav1d/1.5.2/dav1d-1.5.2.tar.xz",
+                    "sha256": "cce88ebcffd3f790bde49caa75f97b9cc2dd54ca8f57e38c62707266ec71bc4e"
                 }
             ]
         },
