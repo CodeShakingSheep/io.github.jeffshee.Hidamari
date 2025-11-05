@@ -239,9 +239,9 @@
             ],
             "sources": [
                 {
-                    "type": "archive",
-                    "url": "https://github.com/Haivision/srt/archive/v1.5.3.tar.gz",
-                    "sha256": "befaeb16f628c46387b898df02bc6fba84868e86a6f6d8294755375b9932d777"
+                    "type": "git",
+                    "url": "https://github.com/Haivision/srt.git",
+                    "commit": "c09532f8edf28de91854f975bb16e643e8085ed9"
                 }
             ]
         },
