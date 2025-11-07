@@ -222,9 +222,9 @@
             ],
             "sources": [
                 {
-                    "type": "git",
-                    "url": "https://github.com/videolabs/libspatialaudio.git",
-                    "commit": "da7ee37497be851cd586f061a7e00a0dea1fb1de"
+                    "type": "archive",
+                    "url": "https://github.com/videolabs/libspatialaudio/releases/download/0.3.0/spatialaudio-0.3.0.tar.bz2",
+                    "sha256": "284c1dbd8efd46c03be84ac7070bc87cae81b7125352b143a70be3e2b96988e3"
                 }
             ]
         },
