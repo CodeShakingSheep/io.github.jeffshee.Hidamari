@@ -100,7 +100,8 @@
             "name": "mesa-demos",
             "config-opts": [
                 "--without-glut",
-                "--bindir=/app/lib/mesa-demos"
+                "--bindir=/app/lib/mesa-demos",
+                "--enable-autotools"
             ],
             "make-args": [
                 "-C",
