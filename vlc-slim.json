@@ -290,6 +290,8 @@
             "name": "vlc",
             "config-opts": [
                 "BUILDCC=/usr/bin/gcc -std=gnu99",
+                "CFLAGS=-U_FORTIFY_SOURCE",
+                "CXXFLAGS=-U_FORTIFY_SOURCE",
                 "--disable-archive",
                 "--disable-dc1394",
                 "--disable-dv1394",
