@@ -98,7 +98,7 @@
         },
         {
             "name": "mesa-demos",
-            "build-system":"autotools",
+            "buildsystem":"autotools",
             "config-opts": [
                 "--without-glut",
                 "--bindir=/app/lib/mesa-demos",
