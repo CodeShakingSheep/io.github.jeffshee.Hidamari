@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>hm</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+
+  <name>Hidamari</name>
+  <summary>Video wallpaper for Linux</summary>
+
+  <description>
+    <p>Hidamari 日溜まり【ひだまり】(n) sunny spot; exposure to the sun.
+Similar functionality to Xwinwrap + mpv or Komorebi, with more features.</p>
+  </description>
+
+  <releases>
+    <release version="3.6" date="2025-11-12"/>
+  </releases>
+</component>
