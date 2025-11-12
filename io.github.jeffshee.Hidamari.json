@@ -98,20 +98,14 @@
         },
         {
             "name": "mesa-demos",
+            "build-system":"autotools",
             "config-opts": [
                 "--without-glut",
                 "--bindir=/app/lib/mesa-demos",
                 "--enable-autotools"
             ],
-            "make-args": [
-                "-C",
-                "src/xdemos",
-                "glxinfo"
-            ],
             "no-make-install": true,
             "build-commands": [
-                "make -C src/glad",
-                "make -C src/xdemos glxinfo",
                 "install -D src/xdemos/glxinfo -t /app/bin/"
             ],
             "sources": [
