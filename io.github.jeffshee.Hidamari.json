@@ -165,7 +165,7 @@
                 }
             ],
             "build-commands": [
-                "install -Dm644 data/io.github.jeffshee.Hidamari.metainfo.xml /app/share/metainfo/io.github.jeffshee.Hidamari.metainfo.xml"
+                "install -Dm644 io.github.jeffshee.Hidamari.metainfo.xml /app/share/metainfo/io.github.jeffshee.Hidamari.metainfo.xml"
             ]
         }
     ]
