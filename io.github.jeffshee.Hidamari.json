@@ -164,7 +164,9 @@
                     "commit": "c57502076a0272cd09971ec4c8c4a07b9bf0c959"
                 },
                 {
-                    "type": "file", "path": "io.github.jeffshee.Hidamari.metainfo.xml"
+                    "type": "file", 
+                    "path": "io.github.jeffshee.Hidamari.metainfo.xml",
+                    "dest": "."
                 }
             ],
             "build-commands": [
